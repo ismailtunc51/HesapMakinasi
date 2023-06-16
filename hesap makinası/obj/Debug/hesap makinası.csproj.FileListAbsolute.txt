@@ -1,0 +1,10 @@
+C:\Users\İsmailPc\Source\Repos\new solution\hesap makinası\bin\Debug\hesap makinası.exe.config
+C:\Users\İsmailPc\Source\Repos\new solution\hesap makinası\bin\Debug\hesap makinası.exe
+C:\Users\İsmailPc\Source\Repos\new solution\hesap makinası\bin\Debug\hesap makinası.pdb
+C:\Users\İsmailPc\Source\Repos\new solution\hesap makinası\obj\Debug\hesap makinası.csproj.AssemblyReference.cache
+C:\Users\İsmailPc\Source\Repos\new solution\hesap makinası\obj\Debug\hesap_makinası.Form1.resources
+C:\Users\İsmailPc\Source\Repos\new solution\hesap makinası\obj\Debug\hesap_makinası.Properties.Resources.resources
+C:\Users\İsmailPc\Source\Repos\new solution\hesap makinası\obj\Debug\hesap makinası.csproj.GenerateResource.cache
+C:\Users\İsmailPc\Source\Repos\new solution\hesap makinası\obj\Debug\hesap makinası.csproj.CoreCompileInputs.cache
+C:\Users\İsmailPc\Source\Repos\new solution\hesap makinası\obj\Debug\hesap makinası.exe
+C:\Users\İsmailPc\Source\Repos\new solution\hesap makinası\obj\Debug\hesap makinası.pdb
